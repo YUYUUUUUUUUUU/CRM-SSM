@@ -67,3 +67,4 @@
         测试git
         测试githotfix
         测试gitmaster2test
+        测试githotfix2test
