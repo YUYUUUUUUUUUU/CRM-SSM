@@ -66,3 +66,4 @@
         测试使用git这句
         测试git
         测试githotfix
+        测试gitmaster2test
